@@ -41,3 +41,12 @@ Argumentos y Parámetros de una funcion
 
 Retorno de una funcion
     -> Es un valor que quiero extraer de la misma y usarlo por fuera de ella
+
+Tarea: 
+    1 - Validar variabale saldo para que descuente los debitos (transferencia y retiro) 
+    2 - Convertir cada opcion(case) en function : 
+            funcion consultarSaldo() y en el case 1 llamar consultarSaldo()
+    3 - El menu de opciones que sea una funcion: 
+        capturar el valor respectivo, retorno el valor que selecciono. 
+        En el menu capturar como parametro, ejecute como argumento. 
+    4 - El menu de ejecucion sea una funcion. 
