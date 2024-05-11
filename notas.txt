@@ -1,0 +1,43 @@
+Ciclos - Bucles - Estructuras de repetición
+Generales 
+    for, while, do-while
+"Propios"
+    For Of, For In
+"Métodos de arreglos"
+    filter, find, forEach, map, some
+
+
+while 
+    -> Un while puede hacer lo mismo que un for (pero no es recíproco)
+        -> Controlado por una expresión booleana (true)
+            (Normalmente es un bucle finito)
+        -> Cointrolado por una bandera o centinela o interruptor (true)
+            (Normalmente es infinito (controlado))
+        Validar o configurar primero la variable de control
+
+do-while 
+    -> Lo mimso que el while pero distinto
+
+
+Funciones -> Bloque de código que encapsula una funcionalidad o tearea que podrá ser llamada o utilizada la cantidad de veces que se requiera y donde se requiera
+    Declarativa:
+        Se puede definir y/o crear en cualquier parte del código y se podrán llamar en cualquier parte del código
+        Se asignan a la memoria global del archivo
+    Expresion:
+        Se puede definir y/o crear en cualquier parte del código y se podrán llamar solamente despues de su creación o definición
+        Se asigan a una variable en el archivo
+            Función regular
+            Función flecha (ES6+)
+
+    Las funciones tienen dos partes o momentos
+        1 - Definición o declaración
+        2 - Llamado o ejecución
+
+
+Argumentos y Parámetros de una funcion
+-> Argumentos: es el valor que se le pasa a una funcion desde su llamado. Ese valor puede ser cualquier tipo de dato
+-> Parámetro: es la definición del valor recibido como argumento para ejecutarse dentro de ella
+
+
+Retorno de una funcion
+    -> Es un valor que quiero extraer de la misma y usarlo por fuera de ella
